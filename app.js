@@ -9,7 +9,7 @@ var p = beta[4];
 valid = true;
 
 for (var i = 0; i <= alpha.length[i]; i++) {
-	i = 4;
+	i = 10;
 	if ((u === alpha[i]) && (p === beta[i])) {
 		valid = "yes";
 		break;
